@@ -23,15 +23,13 @@ namespace FonourWeek
         {
             if (env.IsDevelopment())
             {
-                //app.UseDeveloperExceptionPage();
-                app.UseExceptionHandler("/Shared/Error");
+                app.UseDeveloperExceptionPage();
             }
             else
             {
                 app.UseExceptionHandler("/Shared/Error");
             }
 
-            //app.UseMvcWithDefaultRoute();
             app.UseMvc(route =>
             {
                 route.MapRoute(
