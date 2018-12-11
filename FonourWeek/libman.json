@@ -1,0 +1,89 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "cdnjs",
+      "library": "admin-lte@2.4.8",
+      "destination": "wwwroot/lib/admin-lte/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "jquery@3.3.1",
+      "destination": "wwwroot/lib/jquery/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "font-awesome@4.7.0",
+      "destination": "wwwroot/lib/font-awesome/",
+      "files": [
+        "css/font-awesome.min.css",
+        "css/font-awesome.css",
+        "css/font-awesome.css.map",
+        "fonts/fontawesome-webfont.eot",
+        "fonts/fontawesome-webfont.svg",
+        "fonts/fontawesome-webfont.ttf",
+        "fonts/fontawesome-webfont.woff",
+        "fonts/fontawesome-webfont.woff2",
+        "fonts/FontAwesome.otf"
+      ]
+    },
+    {
+      "provider": "cdnjs",
+      "library": "twitter-bootstrap@4.1.3",
+      "destination": "wwwroot/lib/twitter-bootstrap/",
+      "files": [
+        "css/bootstrap-grid.css",
+        "css/bootstrap-grid.css.map",
+        "css/bootstrap-grid.min.css",
+        "css/bootstrap-grid.min.css.map",
+        "css/bootstrap-reboot.css",
+        "css/bootstrap-reboot.css.map",
+        "css/bootstrap-reboot.min.css",
+        "css/bootstrap-reboot.min.css.map",
+        "css/bootstrap.css",
+        "css/bootstrap.css.map",
+        "css/bootstrap.min.css",
+        "css/bootstrap.min.css.map",
+        "js/bootstrap.bundle.js",
+        "js/bootstrap.bundle.js.map",
+        "js/bootstrap.bundle.min.js",
+        "js/bootstrap.bundle.min.js.map",
+        "js/bootstrap.js",
+        "js/bootstrap.js.map",
+        "js/bootstrap.min.js",
+        "js/bootstrap.min.js.map"
+      ]
+    }
+  ,
+{
+  "provider": "cdnjs",
+  "library": "iCheck@1.0.2",
+  "destination": "wwwroot/lib/iCheck/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "jstree@3.3.7",
+  "destination": "wwwroot/lib/jstree/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "select2@4.0.5",
+  "destination": "wwwroot/lib/select2/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "layer@2.3",
+  "destination": "wwwroot/lib/layer/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "paginationjs@2.1.4",
+  "destination": "wwwroot/lib/paginationjs/"
+}
+]
+}
