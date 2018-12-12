@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Fonour.Domain.Entities
+namespace FonourWeek.Domain.Entities
 {
-    class Role
+    public class Role : Entity
     {
     }
 }

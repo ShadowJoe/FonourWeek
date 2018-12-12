@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Fonour.Domain.Entities
+namespace FonourWeek.Domain.Entities
 {
     public class User : Entity
     {

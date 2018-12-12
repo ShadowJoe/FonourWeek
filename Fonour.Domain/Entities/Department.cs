@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Fonour.Domain.Entities
+namespace FonourWeek.Domain.Entities
 {
-
     /// <summary>
     /// 部门实体
     /// </summary>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Fonour.Domain
+namespace FonourWeek.Domain.Entities
 {
     public abstract class Entity<TPrimaryKey>
     {
